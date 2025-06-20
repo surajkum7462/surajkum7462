@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot Enthusiast | B.Tech CSE Student</h3>
+<div align="center" style="background: linear-gradient(to right, #2C5364, #203A43, #0F2027); padding: 20px; border-radius: 15px; color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Code.+Build.+Debug.+Repeat.;Java+%7C+Spring+Boot+%7C+React+%7C+Firebase+Lover;Let's+Connect+%26+Build+Something+Great!" alt="Typing SVG" />
-</p>
+<h1>Hi 👋, I'm Suraj Kumar</h1>
+<h3>Java Full Stack Developer | Spring Boot Enthusiast | B.Tech CSE Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajkum7462&label=Profile%20views&color=0e75b6&style=flat" alt="surajkum7462" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Code.+Build.+Debug.+Repeat.;Java+%7C+Spring+Boot+%7C+React+%7C+Firebase+Lover;Let's+Connect+%26+Build+Something+Great!" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=surajkum7462&label=Profile%20views&color=0e75b6&style=flat" alt="surajkum7462" />
+</div>
 
 ---
 
@@ -16,13 +15,13 @@
 - 🎓 B.Tech CSE Student @ **Trident Academy of Technology, Bhubaneswar**  
 - 💡 Passionate about building full-stack applications using **Java, Spring Boot, React, Firebase**
 - 🚀 Currently working on: **WhatsApp Chatbot | Microservices | Firebase Integration**
-- 🧬 Solving DSA Problems on [LeetCode](https://leetcode.com/u/kumarsuraj7462998828/)
-- 💌 Email: [kumarsuraj7462998828@gmail.com](mailto:kumarsuraj7462998828@gmail.com)
-- 📞 Mobile: `7462998828`
+- 🧠 Solving DSA Problems on [LeetCode](https://leetcode.com/u/kumarsuraj7462998828/)
+- 📧 Email: [kumarsuraj7462998828@gmail.com](mailto:kumarsuraj7462998828@gmail.com)
+- 📱 Mobile: `7462998828`
 
 ---
 
-### 🔧 Skills & Tech Stack
+### 🛠️ Skills & Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -41,14 +40,14 @@
 
 | Project | Description |
 |--------|-------------|
-| [📅 E-Commerce Project](https://github.com/surajkum7462/E-Commecre-Project/tree/master) | Spring Boot + MySQL + Thymeleaf E-commerce web app |
-| [📄 E-Notes Real-Time](https://github.com/surajkum7462/E-Notes-Real-Time-Project-) | Real-time collaborative notes project |
+| [🛒 E-Commerce Project](https://github.com/surajkum7462/E-Commecre-Project/tree/master) | Spring Boot + MySQL + Thymeleaf E-commerce web app |
+| [📝 E-Notes Real-Time](https://github.com/surajkum7462/E-Notes-Real-Time-Project-) | Real-time collaborative notes project |
 | [📱 Contact Dashboard App](https://github.com/surajkum7462/Contact-DashBoard-App) | React Native app to manage contacts & stats |
-| [🔠 DSA Repository](https://github.com/surajkum7462/DSA) | Practice repository for solving DSA problems |
+| [🔢 DSA Repository](https://github.com/surajkum7462/DSA) | Practice repository for solving DSA problems |
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=surajkum7462&show_icons=true&theme=radical" />
@@ -61,7 +60,7 @@
 
 ---
 
-### 👥 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-kumar-337a27227">
