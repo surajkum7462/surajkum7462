@@ -86,7 +86,7 @@
   <a href="https://leetcode.com/u/kumarsuraj7462998828/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.instagram.com/itz____suraj7?igsh=MWp0dGU1NzNpcHJnbA==">
+  <a href="https://www.instagram.com/sawsuraj7?igsh=MWp0dGU1NzNpcHJnbA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
