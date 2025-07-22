@@ -37,27 +37,36 @@
 
 ---
 
-### 🌟 Featured Projects
+<!-- 🌟 Featured Projects -->
+<h2 align="center">🌟 Featured Projects</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/surajkum7462/E-Commecre-Project/tree/master" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=E-Commecre-Project&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/surajkum7462/E-Notes-Real-Time-Project-" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=E-Notes-Real-Time-Project-&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/surajkum7462/Contact-DashBoard-App" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=Contact-DashBoard-App&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/surajkum7462/DSA" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=DSA&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/surajkum7462/E-Commecre-Project/tree/master" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=E-Commecre-Project&theme=radical" />
-</a>
-
-<a href="https://github.com/surajkum7462/E-Notes-Real-Time-Project-" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=E-Notes-Real-Time-Project-&theme=radical" />
-</a>
-
-<a href="https://github.com/surajkum7462/Contact-DashBoard-App" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=Contact-DashBoard-App&theme=radical" />
-</a>
-
-<a href="https://github.com/surajkum7462/DSA" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajkum7462&repo=DSA&theme=radical" />
-</a>
-
-</div>
 
 ---
 
