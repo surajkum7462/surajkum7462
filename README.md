@@ -18,7 +18,7 @@
 - 🧠 Solving DSA Problems on [LeetCode](https://leetcode.com/u/kumarsuraj7462998828/)
 - 📧 Email: [kumarsuraj7462998828@gmail.com](mailto:kumarsuraj7462998828@gmail.com)
 - 📱 Mobile: `7462998828`
-- 🌐 Portfolio: [https://github.com/surajkum7462](https://github.com/surajkum7462)
+- 🌐 Portfolio: [https://three-js-portfolio-indol.vercel.app/](https://three-js-portfolio-indol.vercel.app/)
 
 ---
 
